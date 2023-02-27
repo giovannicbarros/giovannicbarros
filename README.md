@@ -41,4 +41,4 @@
 
 ## 
 
-
+![snake gif](https://github.com/giovannicbarros/giovannicbarros/blob/output/github-contribution-grid-snake.svg)

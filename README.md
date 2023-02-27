@@ -4,8 +4,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/giovannicbarros">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovannicbarros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />  
-    <img height="170em" style="margin-left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicbarros&layout=compact&langs_count=16&theme=algolia" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=giovannicbarros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />  
+    <img height="165em" style="margin-left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicbarros&layout=compact&langs_count=16&theme=algolia" />
   </a>
 </div>
 

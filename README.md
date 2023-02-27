@@ -41,5 +41,4 @@
 
 ## 
 
-![Snake animation](https://github.com/giovannicbarros/giovannicbarros/blob/output/github-contribution-grid-snake.svg)
 
